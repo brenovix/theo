@@ -1,7 +1,7 @@
 {
     "name": "brenovix/theo",
     "type": "project",
-    "description": "Theo Service Desk. Serice Desk made with Laravel. From technicians to technicians",
+    "description": "Theo Service Desk. Service Desk made with Laravel. From technicians to technicians",
     "keywords": ["theo", "laravel", "service", "desk", "service desk"],
     "license": "MIT",
     "require": {
